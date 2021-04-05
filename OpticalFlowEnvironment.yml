@@ -1,0 +1,12 @@
+name: optical-flow
+channels:
+  - defaults
+dependencies:
+  - ipython=7.1.1
+  - libopencv=3.4.2
+  - numpy
+  - pip
+  - py-opencv=3.4.2
+  - python=3.7.1
+  - spyder=3.3.1
+
